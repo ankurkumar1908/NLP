@@ -10,4 +10,5 @@ This dataset contains a comprehensive collection of consumer reviews and ratings
 * Image Links: Links to images associated with the reviews, if available.
 
 **Objective:** The aim of this project is to gain valuable insights into customer preferences and areas for improvement based on the reviews and ratings.
+
 **Key Skills:**  Word Cloud, Word tokenization, Feature Extraction, Vectorization, Scaling, Ensemble techniques.
